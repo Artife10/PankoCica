@@ -1,0 +1,21 @@
+body{
+    margin: auto;
+    text-align: center;
+    font-family: 'Rodondo', sans-serif;
+                                                
+}
+table{
+    margin: auto;
+    text-align: center;
+}
+tr td{
+    padding: 20px;
+}
+video{
+    border-radius: 20px;
+    border-style: solid;
+    width: 350px;
+}
+video:hover{
+    scale: 105%;
+}
