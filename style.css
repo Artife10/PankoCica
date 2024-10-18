@@ -19,3 +19,9 @@ video{
 video:hover{
     scale: 105%;
 }
+
+@media only screen and (max-width: 1200px) {
+    td{
+        display: block;
+    }
+  }
